@@ -1,0 +1,22 @@
+body {
+  background-color: orange;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+.container {
+  width: 1024px;
+
+}
+
+#name{
+  display: table;
+  height: 100vh;
+  width: 100%;
+}
+
+#center{
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
