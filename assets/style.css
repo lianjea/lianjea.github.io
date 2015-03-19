@@ -4,6 +4,8 @@ body {
   background-size: cover;
   max-height: 100vh;
   overflow: hidden;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
 }
 
 .container {
